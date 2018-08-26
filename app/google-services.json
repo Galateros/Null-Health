@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "316311642608",
+    "firebase_url": "https://hackmty-1c77e.firebaseio.com",
+    "project_id": "hackmty-1c77e",
+    "storage_bucket": "hackmty-1c77e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316311642608:android:e6b990280606b439",
+        "android_client_info": {
+          "package_name": "com.firebase.galateros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316311642608-c8ukb3g6jmdkk8olbfsffknprfugkpep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbntRbdIAVN5Si_GBFhPWfOiKGcDgYv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316311642608:android:8ff44f3bfecbac07",
+        "android_client_info": {
+          "package_name": "com.firebase.galateros.drawables"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316311642608-c8ukb3g6jmdkk8olbfsffknprfugkpep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbntRbdIAVN5Si_GBFhPWfOiKGcDgYv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316311642608:android:9394d8d808ca6490",
+        "android_client_info": {
+          "package_name": "com.inducesmile.androidfingerprintlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316311642608-c8ukb3g6jmdkk8olbfsffknprfugkpep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbntRbdIAVN5Si_GBFhPWfOiKGcDgYv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316311642608:android:3f669cfbd12db925",
+        "android_client_info": {
+          "package_name": "dev.edmt.fingerprintauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316311642608-c8ukb3g6jmdkk8olbfsffknprfugkpep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbntRbdIAVN5Si_GBFhPWfOiKGcDgYv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
